@@ -1,7 +1,3 @@
-Here’s a similar README tailored to your **House Price Prediction App** project:
-
----
-
 # House Price Prediction App with Machine Learning
 
 ## Overview
